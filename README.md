@@ -1,9 +1,15 @@
-# RealmeUI/ColorOS 特别说明：
+# OnePlusYingHeiFont (莹黑字体)
 
-1. /etc/fonts.xml 没什么用，但为了标准一致，用 fonts_base.xml 复制覆盖一份到 /etc/fonts.xml
+## 项目说明
+
+这是一个为 ColorOS 15 系统定制的莹黑字体模块。
+
+## RealmeUI/ColorOS 特别说明
+
+1. `/etc/fonts.xml` 没什么用，但为了标准一致，用 `fonts_base.xml` 复制覆盖一份到 `/etc/fonts.xml`
 2. 系统语言处于繁体时，部分简体字显示很奇怪，尺寸和繁体不一致，简体略大一些，不知道原因，需要显式指定 fallback 简体字体（激活日韩语言时不存在这种问题，可能是因为日韩用的通用CJK字体）
-3. backupxml 存储了 ColorOS15 和 OxygenOS10 的 font 相关配置用于参考。
-4. 项目附件中附加了 OxygenOS10 所有字体文件用于备用。
+3. `backupxml` 存储了 ColorOS15 和 OxygenOS10 的 font 相关配置用于参考
+4. 项目附件中附加了 OxygenOS10 所有字体文件用于备用
 
 
 
