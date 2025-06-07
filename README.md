@@ -11,7 +11,17 @@
 3. `backupxml` 存储了 ColorOS15 和 OxygenOS10 的 font 相关配置用于参考
 4. 项目附件中附加了 OxygenOS10 所有字体文件用于备用
 
+## 预览
 
+<div align="center">
+  <img src="assets/1.jpg" width="45%" />
+  <img src="assets/2.jpg" width="45%" />
+  <br />
+  <img src="assets/3.jpg" width="45%" />
+  <img src="assets/4.jpg" width="45%" />
+  <br />
+  <img src="assets/5.jpg" width="45%" />
+</div>
 
 # CJK Font Magisk Module Template <sup>SIMPLE</sup> </br> CJK 字体 Magisk 模块模板 <sup>简易版</sup>
 
