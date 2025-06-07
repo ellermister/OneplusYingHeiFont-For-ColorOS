@@ -1,0 +1,8 @@
+# id 只能填 字母 数字 半角符号
+id=oneplus.yinghei.fonts
+name=OnePlus YingHei Fonts (一加莹黑™)
+version=v1.4.5
+versionCode=145
+author=ellermister
+description=OnePlus YingHei (一加莹黑™) system-wide font replacement, including Simplified Chinese (简体中文), Traditional Chinese (繁体中文), Japanese (日文) and Korean (韩文) support.
+updateJson=
